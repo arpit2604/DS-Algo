@@ -30,6 +30,5 @@ def longestPeak(array):
 		return peak_len_backup_old
 	else:
 		return peak_len+1
-		#else:
-		#	return peak_len_backup
+	
 	
