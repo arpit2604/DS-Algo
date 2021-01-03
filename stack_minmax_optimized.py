@@ -4,13 +4,9 @@ class MinMaxStack:
 		self.range = []
 		
     def peek(self):
-        # Write your code here.
-        #pass
 		return self.arr[len(self.arr)-1]
 
     def pop(self):
-        # Write your code here.
-        #pass
 		self.range.pop()
 		return self.arr.pop()
 
