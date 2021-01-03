@@ -1,4 +1,3 @@
-# Feel free to add new properties and methods to the class.
 class MinMaxStack:
 	def __init__(self):
 		self.arr = []
